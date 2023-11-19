@@ -3,7 +3,8 @@
 시니어 개발자들의 조언에 따라 보안 목적으로 README 파일만 존재하는 레포지토리입니다.
 실제 내년 2월부터 런서버 예정이므로 대외비인 협회원 명단 DB와 도메인 보안을 위해 실제 운영 레포지토리는 private으로 별도 존재합니다.
 
-## 도메인 -> http://kiban.co.kr
+## 도메인
+http://kiban.co.kr
 
 
 ## 1. Introduction of Campaign
