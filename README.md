@@ -1,4 +1,5 @@
-# 개요
+# 선거후보자 홍보 웹페이지 (The Kingmaker)
+
 ## 참고 사항
 시니어 개발자들의 조언에 따라 보안 목적으로 README 파일만 존재하는 레포지토리입니다.
 실제 내년 2월부터 런서버 예정이므로 대외비인 협회원 명단 DB와 도메인 보안을 위해 실제 운영 레포지토리는 private으로 별도 존재합니다.
@@ -54,3 +55,15 @@ The Kingmaker
 
 ### 협회활동 (갤러리)
 <img width="1221" alt="activity" src="https://github.com/nnonamii/kingmaker/assets/137133552/fa457789-07fa-4519-ae57-a3338a0336b0">
+
+
+## 5. Code Overview
+
+### urls.py
+![image](https://github.com/nnonamii/kingmaker/assets/137133552/5c9e7ef0-d714-4807-8b39-9a05e43e3355)
+
+### views.py
+![image](https://github.com/nnonamii/kingmaker/assets/137133552/7b52c15c-677d-402b-a7db-bce9969a7635)
+
+### models.py
+![image](https://github.com/nnonamii/kingmaker/assets/137133552/440b501a-be37-4b92-84ec-f103ee3c90e2)
