@@ -1,6 +1,6 @@
-<div align="center">
-# 선거후보자 홍보 웹페이지 (The Kingmaker)
-</div>
+# 👑 선거후보자 홍보 웹페이지 (The Kingmaker)
+
+<br />
 
 ### 참고 사항
 시니어 개발자들의 조언에 따라 보안 목적으로 README 파일만 존재하는 레포지토리입니다.
